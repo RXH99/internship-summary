@@ -1,4 +1,16 @@
-## \# 实习项目总结报告
+## \# 项目总结 
 
-## 本仓库存放我在 AI 数据训练与部署方向的实习项目总结，包含三个完整项目：CSV to JSONL 数据清洗工具、本地 RAG 知识库问答系统、OpenClaw AI Agent 部署。
+## \## 项目
+
+## 
+
+## | 项目 | 链接 |
+
+## |------|------|
+
+## | AI 训练数据标准化流水线 | \[data-pipeline-clean](https://github.com/RXH99/data-pipeline-clean) |
+
+## | RAG 检索效果对比平台 | \[rag-bench](https://github.com/RXH99/rag-bench) |
+
+## | 技术笔记 | \[internship-summary](https://github.com/RXH99/internship-summary) |
 
